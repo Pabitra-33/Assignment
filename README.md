@@ -1,6 +1,6 @@
 # CUTM_Python_Assignment
 
-Given an assignment by our faculty to implement basic operation of pandas in python.
+Given an assignment by our teaching faculty to implement basic operation of pandas in python and analyze the pandas importance in the visualiz
 The Pandas library in Python is a powerful tool for data manipulation and analysis.
 Here are some important points about Pandas used:
 
